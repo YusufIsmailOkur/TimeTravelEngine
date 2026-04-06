@@ -14,21 +14,21 @@ The system models a "time travel" mechanism where a user can move between past a
 - Time state management using stacks
 - Support for unbounded stack structures
 
-## 🧠 Concepts Used
+## Concepts Used
 
 - Stacks (bounded and unbounded)
 - Dynamic memory management
 - Object-Oriented Programming
 - State management systems
 
-## 📂 Structure
+## Structure
 
 - `TimeTravelEngine` – Core system logic
 - `TimeBranch` – Handles current state, past, and future
 - `Stack` – Bounded stack implementation
 - `UnboundedStack` – Dynamically growing stack
 
-## 🚀 Notes
+## Notes
 
 This project focuses on implementing core data structures and system logic rather than building a user interface. Therefore, no main function or executable demo is included.
 
